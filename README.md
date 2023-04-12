@@ -1,3 +1,3 @@
 # Keyboard-event-project
 
-Simple Project from Javascript Full COurse
+Simple Project from Javascript Full Course
